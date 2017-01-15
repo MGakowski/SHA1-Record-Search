@@ -1,4 +1,5 @@
 __authors__ = ['Chick3nputer', 'Supersam654', 'MGakowski']
+__python_version__ = "2.7"
 
 import hashlib
 import multiprocessing
